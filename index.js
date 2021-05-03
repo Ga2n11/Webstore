@@ -39,45 +39,48 @@ const productList = [
         "price": 444,
         "imageurl": "w5.png"
     },
+
+
+
     {
         "id": "6",
-        "name": "Round Analog Watch 2",
+        "name": "Dark grey watch",
         "productcode": "38058PP03",
-        "description": "2 Fastrack Impressive and trendy watch for boys and girls",
+        "description": "Fastrack Impressive and trendy watch for boys",
         "price": 555,
         "imageurl": "w6.png"
     },
     {
         "id": "7",
-        "name": "Round Analog Watch 3",
+        "name": "Silver grey watch",
         "productcode": "38058PP04",
-        "description": "3 Fastrack Impressive and trendy watch for boys and girls",
+        "description": "Fastrack Impressive and trendy watch for boys",
         "price": 666,
-        "imageurl": "w6.png"
+        "imageurl": "w7.jpg"
     },
     {
         "id": "8",
-        "name": "Round Analog Watch 4",
+        "name": "Black red watch",
         "productcode": "38058PP05",
-        "description": "4 Fastrack Impressive and trendy watch for boys and girls",
+        "description": "Fastrack Impressive and trendy watch for boys",
         "price": 777,
-        "imageurl": "w6.png"
+        "imageurl": "w8.jpg"
     },
     {
         "id": "9",
-        "name": "Round Analog Watch 5",
+        "name": "Silver white watch",
         "productcode": "38058PP06",
-        "description": "5 Fastrack Impressive and trendy watch for boys and girls",
+        "description": "Fastrack Impressive and trendy watch for boys",
         "price": 888,
-        "imageurl": "w6.png"
+        "imageurl": "w9.jpg"
     },
     {
         "id": "10",
-        "name": "Round Analog Watch 6",
+        "name": "Blue brown watch",
         "productcode": "38058PP07",
-        "description": "6 Fastrack Impressive and trendy watch for boys and girls",
+        "description": "Fastrack Impressive and trendy watch for boys",
         "price": 999,
-        "imageurl": "w6.png"
+        "imageurl": "w10.jpg"
     }
 ]
 
